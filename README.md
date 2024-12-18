@@ -2,7 +2,7 @@
 
 *Currently student at 42 Perpignan. Learning C, from France*
 
-- 👨‍💻 All of my 42 projecs are on **my [GitHub repos](https://github.com/Tyssan?tab=repositories)**
+- 👨‍💻 All of my 42 projects are on **my [GitHub repos](https://github.com/Tyssan?tab=repositories)**
 
 - 💬 Ask me about **42's piscine, I can give some advices**
 
